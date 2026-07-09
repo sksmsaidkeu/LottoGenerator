@@ -67,3 +67,5 @@ python lotto_generator.py --history lotto_cache.csv --sync --export-html lotto_g
 - 결과 기록은 최신 2개까지만 화면에 남고 이전 기록은 자동으로 정리됩니다.
 - 최신 회차를 반영하려면 위 갱신 명령으로 캐시와 HTML을 다시 생성해야 합니다 (페이지 자체는 실시간으로 데이터를 갱신하지 않습니다).
 - 이후에 추가/수정/제거되는 내용이 있다면 README.md에 내역 작성하겠습니다.
+
+-cursor(또는 vscode) 내부 PR 기능 테스트용 문장
